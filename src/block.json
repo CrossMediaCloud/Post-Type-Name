@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"title": "Post Type Name",
 	"category": "widgets",
-	"icon": "smiley",
+	"icon": "info-outline",
 	"description": "Display post type name as a block with styling options.",
 	"example": {},
 	"supports": {
