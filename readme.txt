@@ -20,7 +20,7 @@ WordPress Block to display post type name on a website. Can be used in templates
 == Repos ==
 
 WP.org Plugin plugin repo aka. block directory: (submitted)
-GitHub: https://github.com/CrossMediaCloud/Post-Type-Name/
+Source on GitHub: https://github.com/CrossMediaCloud/Post-Type-Name/ (need to run 'npm run build' to create files to run it)
 
 == Installation ==
 
