@@ -2,7 +2,7 @@
 Contributors:      Drivingralle
 Tags:              CPT, lable, Custom Post Type
 Tested up to:      6.6
-Stable tag:        0.1.0
+Stable tag:        1.0.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ GitHub: https://github.com/CrossMediaCloud/Post-Type-Name/
 2. Activate the plugin through the 'Plugins' screen in WordPress
 
 == Changelog ==
+
+= 1.0.0 (26.09.2024) =
+* First release to WP.org
 
 = 0.1.0 =
 * Kick ofg the block

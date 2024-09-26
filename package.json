@@ -1,6 +1,6 @@
 {
 	"name": "post-type-name",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Display post type name as a block with styling options.",
 	"author": "Drivingralle",
 	"license": "GPL-2.0-or-later",
