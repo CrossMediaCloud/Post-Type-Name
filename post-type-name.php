@@ -6,6 +6,7 @@
  * Requires PHP:      7.4
  * Version:           0.1.0
  * Author:            Drivingralle
+ * Plugin URI:        https://github.com/CrossMediaCloud/Post-Type-Name/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       post-type-name

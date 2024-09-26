@@ -1,6 +1,6 @@
 === Post Type Name ===
 Contributors:      Drivingralle
-Tags:              CPT, lable
+Tags:              CPT, lable, Custom Post Type
 Tested up to:      6.6
 Stable tag:        0.1.0
 License:           GPL-2.0-or-later
@@ -10,7 +10,17 @@ Display post type name as a block with styling options.
 
 == Description ==
 
-Display post type name as a block with styling options.
+WordPress Block to display post type name on a website. Can be used in templates like search results. Build for the block/site editor.
+
+== Road map ==
+
+* Add optional prefix and suffix
+* Add option to change the tag from p to other tags
+
+== Repos ==
+
+WP.org Plugin plugin repo aka. block directory: (submitted)
+GitHub: https://github.com/CrossMediaCloud/Post-Type-Name/
 
 == Installation ==
 
