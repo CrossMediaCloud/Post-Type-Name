@@ -3,6 +3,10 @@
  * @see https://github.com/WordPress/gutenberg/blob/trunk/docs/reference-guides/block-api/block-metadata.md#render
  */
 
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly.
+}
+
 $post      = get_post_type( get_the_ID() );
 $post_type = get_post_type_object( $post );
 $post_type_name = $post_type->labels->singular_name;
