@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.wp.blocks,o=window.wp.i18n,t=window.wp.blockEditor,s=window.ReactJSXRuntime,i=JSON.parse('{"UU":"cross-media-cloud/post-type-name"}');(0,e.registerBlockType)(i.UU,{edit:function(){return(0,s.jsx)("p",{...(0,t.useBlockProps)(),children:(0,o.__)("Post Type Name","post-type-name")})}})})();
