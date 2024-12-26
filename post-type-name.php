@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @see https://developer.wordpress.org/reference/functions/register_block_type/
  */
-function cross_media_cloud_post_type_name_block_init() {
+function cross_media_cloud_post_type_name_block_init(): void {
 	register_block_type( __DIR__ . '/build' );
 }
 add_action( 'init', 'cross_media_cloud_post_type_name_block_init' );
