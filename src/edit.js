@@ -22,13 +22,9 @@ import { useBlockProps } from '@wordpress/block-editor';
  * @return {Element} Element to render.
  */
 export default function Edit() {
-
 	return (
 		<p { ...useBlockProps() }>
-			{ __(
-				'Post Type Name',
-				'post-type-name'
-			) }
+			{ __( 'Post Type Name', 'post-type-name' ) }
 		</p>
 	);
 }
